@@ -2,7 +2,7 @@
 
 This repository stores an [online interactive map of coconut rhinoceros damage on Guam](https://aubreymoore.github.io/Guam-CRB-Damage-Map-2021-08/webmap) created using data from automated analysis of roadside imagery surveys performed during August 2021. For a nontechnical overview of the survey method see the [WPTRC 2020 Impact Report](https://www.uog.edu/_resources/files/wptrc/2020WPTRCFinal.pdf), pages 7-10.
 
-A **QGIS project** and **SpatiaLite database** for making the map are stored in [Guam05.qgz](Guam05.qgz) and [Guam05.db](Guam05.db).
+A **QGIS project** and **SpatiaLite database** for making the map are stored in **Guam05.qgz** and **Guam05.db**.
 
 ## Previous Guam CRB Damage Maps
 
