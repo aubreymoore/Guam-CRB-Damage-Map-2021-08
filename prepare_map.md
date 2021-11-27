@@ -29,3 +29,11 @@ In QGIS, in the Layers panel, left-click on each layer which gets data from the 
 * Run **edit_webmap.ipynb**. This will create a new file named **newindex.html**.
 * Delete **index.html**.
 * Rename **newindex.html** to **index.html**. 
+
+## Update README.md
+
+* Run **timeline_plot.ipynb** to update timeline plot.
+
+## Update Press Release
+
+* Grab a screenshot of the webmap.

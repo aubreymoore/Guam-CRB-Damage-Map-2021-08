@@ -3,6 +3,7 @@ documentclass: scrartcl
 papersize: letter
 geometry: margin=0.25in
 colorlinks: urlcolor=blue
+comment: convert to pdf using pandoc press-release-roadside.md -o press-release-roadside.pdf
 ---
 
 # PRESS RELEASE
@@ -32,7 +33,7 @@ Cell: 1-671-686-5664
 
 **Figure 1** Screen capture of an online interactive map of coconut rhinoceros beetle damage on Guam. <https://aubreymoore.github.io/Guam-CRB-Damage-Map-2021-05/webmap>
 
-![](timeline.png)
+![](timeline.pdf)
 
 **Figure 2** Changes in CRB damage over time.
 
