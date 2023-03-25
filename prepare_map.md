@@ -30,9 +30,12 @@ In QGIS, in the Layers panel, left-click on each layer which gets data from the 
 * Delete **index.html**.
 * Rename **newindex.html** to **index.html**. 
 
-## Update README.md
+## Update webmap abstract
 
+* Add a record to **damageplot.csv** using data in the **stats** database table. 
 * Run **timeline_plot.ipynb** to update timeline plot.
+
+## Update README.md
 
 ## Update Press Release
 
